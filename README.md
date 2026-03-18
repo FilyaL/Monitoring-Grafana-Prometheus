@@ -13,4 +13,5 @@ monitoring-demo
 
 docker compose up -d
 
+Пример мониторинга метрик в Grafana:
 ![result](result.png)
