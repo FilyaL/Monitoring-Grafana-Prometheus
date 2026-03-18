@@ -12,3 +12,5 @@ monitoring-demo
 Как запустить:
 
 docker compose up -d
+
+![result](result.png)
